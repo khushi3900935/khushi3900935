@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khushi3900935
-- 👀 I’m interested in ( coding offcourse)
+- 👀 I’m interested in ( coding of course)
 - 🌱 I’m currently learning  c++ and web dev
 - 💞️ I’m looking to collaborate on various projects related to web development
 - 📫 How to reach me ...
